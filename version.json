@@ -1,6 +1,12 @@
 {
-  "version": "1.0.4",
-  "type": "config",  
-  "url": "https://kobis-bice.vercel.app/kobis_update_config.exe",
-  "changelog": "עדכון מיפוי סניפים ותיקוני שפה בממשק"
+  "full": {
+    "version": "1.0.5",
+    "url": "https://kobis-bice.vercel.app/update_installer.exe",
+    "changelog": "עדכון כללי - תצוגה חדשה, תיקון באגים"
+  },
+  "config": {
+    "version": "1.0.9",
+    "url": "https://kobis-bice.vercel.app/kobis_update_config.exe",
+    "changelog": "עודכן תיקיית קבצים נלווים"
+  }
 }
