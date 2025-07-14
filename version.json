@@ -1,0 +1,6 @@
+{
+  "version": "1.0.4",
+  "type": "config",  
+  "url": "https://yourserver.com/kobis_update_config.exe",
+  "changelog": "עדכון מיפוי סניפים ותיקוני שפה בממשק"
+}
