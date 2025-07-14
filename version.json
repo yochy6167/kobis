@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
   "type": "config",  
-  "url": "https://yourserver.com/kobis_update_config.exe",
+  "url": "https://kobis-5zbkjtzhh-yochanan-allens-projects.vercel.app/kobis_update_config.exe",
   "changelog": "עדכון מיפוי סניפים ותיקוני שפה בממשק"
 }
