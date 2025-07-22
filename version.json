@@ -1,8 +1,8 @@
 {
   "full": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "url": "https://kobis-bice.vercel.app/update_installer.exe",
-    "changelog": "עדכון כללי - תצוגה חדשה, תיקון באגים, נתוני דוחות ורכיבי שכר"
+    "changelog": "עדכון כללי - תיקון באגים, נתוני דוחות ורכיבי שכר"
   },
   "config": {
     "version": "1.0.9",
