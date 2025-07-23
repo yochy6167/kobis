@@ -5,8 +5,13 @@
     "changelog": "עדכון כללי - תיקון באגים, נתוני דוחות ורכיבי שכר"
   },
   "config": {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "url": "https://kobis-bice.vercel.app/kobis_update_config.exe",
     "changelog": "עדכון תיקיית קבצים נלווים"
+  },
+  "new": {
+    "version": "1.1.0",
+    "url": "https://kobis-bice.vercel.app/Kobis_installer.exe",
+    "changelog": "עדכון כללי - תיקון באגים, נתוני דוחות ורכיבי שכר"
   }
 }
